@@ -82,12 +82,11 @@ a {
 
 
 a:link {
-    text-decoration: italic;
+    
 }
   
 a:visited {
     text-decoration: italic;
-    color: var(--text-color);
 }
   
 a:hover {
