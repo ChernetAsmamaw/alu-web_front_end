@@ -632,5 +632,5 @@ ul.row {
 }
 
 [data-section-theme="dark"] .button {
-    color: var(--color-white);
+    --button-color: var(--color-white);
 }
