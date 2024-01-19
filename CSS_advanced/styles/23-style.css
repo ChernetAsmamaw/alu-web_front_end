@@ -572,3 +572,21 @@ ul.row {
     float: left;
     padding: 0.5rem;
 }
+
+[data-section-theme="dark"] {
+    --text-color: var(--color-white);
+    --section-title-color: var(--color-white);
+    background-color: var(--color-black);
+}
+
+.footer-address {
+    color: var(--text-color);   
+}
+
+.social-link {
+    display: block;
+}
+
+.social-link svg {
+    fill: var(--text-color);
+}
