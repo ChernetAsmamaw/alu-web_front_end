@@ -696,6 +696,6 @@ ul.row {
 }
 
 .nav .nav-item:hover .nav-link::before {
-    color: var(--color-primary);
+    background-color: var(--color-primary);
     width: 100%;
 }
