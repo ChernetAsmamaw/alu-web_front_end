@@ -833,7 +833,7 @@ input:not(:placeholder-shown) ~ .form-field-icon::after {
     position: relative;
 }
 
-.form-search .search-form {
+.form-search .search-button {
     display: inline-block;
     background: transparent;
     border: 0;
@@ -841,7 +841,7 @@ input:not(:placeholder-shown) ~ .form-field-icon::after {
     padding: 0;
 }
 
-.search-icon .search-button {
+.search-button .search-icon {
     display: inline-block;
     color: var(--color-white);
     padding-right: 2rem;
