@@ -1,6 +1,4 @@
 <h2> Learning Objectives </h2>
-<p> At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-  <//p>
 
 <li> Mobile-first design </li>
 <li> Media-queries </li>
